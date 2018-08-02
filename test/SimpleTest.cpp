@@ -9,6 +9,7 @@ protected:
 TEST_F(SimpleClassTest, failingTest){
 	ASSERT_TRUE(true);
 }
-TEST_F(SimpleClassTest,MyClassReturnZero){
+
+TEST_F(SimpleClassTest, MyClassReturnZero){
     ASSERT_EQ(0, m.getZero());
 }
