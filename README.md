@@ -1,6 +1,8 @@
 # Google Test POC
 
 # Google Test Installation
+I know installation for googletest can be little bit challenging since there are multiple ways. I found this way to be easiest and also covered some basic test cases. Hope this will be helpful.
+
 For this demo we are using Eclipse Photon as our IDE
 
 **Installing Google Test Lib** (Note: This project already includes googleTest Lib, so you can skip to eclipse configuration)
