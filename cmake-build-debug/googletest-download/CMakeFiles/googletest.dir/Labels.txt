@@ -1,0 +1,14 @@
+# Target labels
+ googletest
+# Source files and their labels
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/CMakeFiles/googletest
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/CMakeFiles/googletest.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/CMakeFiles/googletest-complete.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-install.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-mkdir.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-download.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-update.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-patch.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-configure.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-build.rule
+/Users/rargarw/CLionProjects/googleTestDemo/cmake-build-debug/googletest-download/googletest-prefix/src/googletest-stamp/googletest-test.rule
